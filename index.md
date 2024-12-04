@@ -7,4 +7,5 @@ Uzoamaka holds a bachelor's and master’s degree in history from the University
 ***How to contact me***
 
 **Uzoamaka Nwachukwu (She/Her)**
+
 Email: unwachuk@iu.edu
