@@ -1,7 +1,8 @@
 ## About Me
 
-I am a researcher in African History. You can view my [CV here]([https://github.com/username/repository-name/blob](https://github.com/UZOAMAKA-NWACHUKWU/UNWACHUKWU.github-io/edit/main/Assets/UZOAMAKA NWACHUKWU CV update.pdf).
+I am a researcher in African History. You can download or view my CV here:
 
+[Download My CV][https://github.com/UZOAMAKA-NWACHUKWU/UNWACHUKWU.github-io/edit/main/Assets/UZOAMAKA NWACHUKWU CV update.pdf]
 
 Uzoamaka Nwachukwu is a Ph.D. candidate in the Department of History at Indiana University Bloomington. Her research interest in on 20th and 21st century Africa History, Colonial Nigeria, Decolonialization, Abolition, Taxation, Gender, Environmental History, Social justice, and Indigenous knowledge in Southeastern Nigeria. Uzoamaka’s work explores the long-term impacts of colonial and post-colonial mining practices, focusing on themes such as forced labor, ecological violence, post-mining landscapes, and the role of local communities in mitigating environmental degradation. She has a strong interdisciplinary approach, utilizing social cartography, archival research, and Geographic Information Systems (GIS) to map out the cultural and material legacies of extractive industries.
 
